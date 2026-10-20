@@ -27,15 +27,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/laavzzzz/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/laavzzzz/Coding-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/laavzzzz/Coding-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/laavzzzz/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/laavzzzz/Coding-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/laavzzzz/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/laavzzzz/Coding-Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/laavzzzz/Coding-Problems/tree/master/0633-sum-of-square-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/laavzzzz/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/laavzzzz/Coding-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/laavzzzz/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->

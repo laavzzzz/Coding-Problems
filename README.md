@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/laavzzzz/Coding-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/laavzzzz/Coding-Problems/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/laavzzzz/Coding-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/laavzzzz/Coding-Problems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/laavzzzz/Coding-Problems/tree/master/0633-sum-of-square-numbers) |
+| [2409-count-days-spent-together](https://github.com/laavzzzz/Coding-Problems/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/laavzzzz/Coding-Problems/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
